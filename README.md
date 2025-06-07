@@ -75,7 +75,7 @@ SF-updater/
 
 ![Version Timeline](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=footer)
 
-# اس‌اف‌-آپدیتر 🧹 (پاک‌کننده خودکار ویندوز)
+# اس‌اف‌-آپدیتر 🧹 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Windows](https://img.shields.io/badge/Windows-CLI-lightgrey)
