@@ -21,5 +21,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
+  <a href= https://github.com/Amirhosin282/SFupdater/blob/master/LICENSE.md><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
 </div>
