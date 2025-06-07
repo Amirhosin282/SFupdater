@@ -39,7 +39,7 @@ Moving it outside the project directory will break relative paths and prevent th
 ## 📦 Folder Structure
 
 
-
+```
 SF-updater/
 ├── app/
 │   ├── main.py            # Cleanup script
@@ -47,7 +47,7 @@ SF-updater/
 │       └── data.txt       # Configuration file (auto-generated)
 ├── installer.py           # Installer / Uninstaller
 ├── README.md
-
+```
 
 
 ---
@@ -116,7 +116,7 @@ SF-updater یک ابزار سبک بر پایه پایتون است که هنگ�
 ## 📦 ساختار پروژه
 
 
-
+```
 SF-updater/
 ├── app/
 │   ├── main.py            # اسکریپت پاک‌سازی
@@ -124,7 +124,7 @@ SF-updater/
 │       └── data.txt       # فایل تنظیمات (توسط نصاب ساخته می‌شود)
 ├── installer.py           # نصب/حذف ابزار
 ├── README.md
-
+```
 ---
 
 ## 🛠 روش استفاده
