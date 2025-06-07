@@ -1,6 +1,7 @@
 # SF-updater 🧹 (Windows Auto Cleanup Tool)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+<a href= https://github.com/Amirhosin282/SFupdater/blob/master/LICENSE.md><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
 ![Windows](https://img.shields.io/badge/Windows-CLI-lightgrey)
 
 SF-updater is a lightweight Python-based utility that automatically deletes old files from a specified folder on Windows startup.  
@@ -78,6 +79,7 @@ SF-updater/
 # اس‌اف‌-آپدیتر 🧹 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+<a href= https://github.com/Amirhosin282/SFupdater/blob/master/LICENSE.md><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
 ![Windows](https://img.shields.io/badge/Windows-CLI-lightgrey)
 
 SF-updater یک ابزار سبک بر پایه پایتون است که هنگام روشن شدن ویندوز، به‌صورت خودکار فایل‌های قدیمی موجود در یک پوشه مشخص را حذف می‌کند.  
