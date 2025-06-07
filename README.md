@@ -48,6 +48,7 @@ SF-updater/
 │       └── data.txt       # Configuration file (auto-generated)
 ├── installer.py           # Installer / Uninstaller
 ├── README.md
+├── LICENSE.md
 ```
 
 
@@ -126,6 +127,7 @@ SF-updater/
 │       └── data.txt       # فایل تنظیمات (توسط نصاب ساخته می‌شود)
 ├── installer.py           # نصب/حذف ابزار
 ├── README.md
+├── LICENSE.md
 ```
 ---
 
