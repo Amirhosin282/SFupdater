@@ -8,11 +8,16 @@ except:
     os.system("pip install colorama")
     os._exit(0)
 
+print(Fore.YELLOW, 'This tool can be dangerous if pointed to sensitive system folders like C:\\Windows, C:\\Users, or any location containing important data.')
+sleep(5)
+os.system("cls")
+
 # for find os
 if platform.system() == "Linux":
     print(Fore.RED, "this version is just for windows")
     sleep(3)
     os._exit(0)
+
 
 if __name__ == '__main__':
     # set path
