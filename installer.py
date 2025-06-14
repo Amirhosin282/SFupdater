@@ -11,6 +11,7 @@ except:
 print(Fore.YELLOW, 'This tool can be dangerous if pointed to sensitive system folders like C:\\Windows, C:\\Users, or any location containing important data.')
 sleep(5)
 os.system("cls")
+print(Fore.WHITE)
 
 # for find os
 if platform.system() == "Linux":
